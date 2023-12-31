@@ -104,7 +104,7 @@ print(f"merge_sort for 1m_random took {timer(merge_sort, copy(list_1m_random))} 
 # selection_sort for 1000_backwards took 119.5152 ms
 # selection_sort for 10000_random took 9095.6953 ms
 # insertion_sort for 1000_random took 114.6127 ms
-# insertion_sort for 1000_sorted took 0.0 ms
+# insertion_sort for 1000_sorted took 0.9993 ms
 # insertion_sort for 1000_backwards took 202.5795 ms
 # insertion_sort for 10000_random took 10536.9768 ms
 # merge_sort for 1000_random took 9.0006 ms
